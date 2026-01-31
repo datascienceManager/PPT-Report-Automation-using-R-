@@ -294,5 +294,3 @@ print(ppt, target = "my_report.pptx")
 - flextable documentation: https://davidgohel.github.io/flextable/
 - ggplot2 documentation: https://ggplot2.tidyverse.org/
 
-## License
-These scripts are provided as examples for educational purposes.
